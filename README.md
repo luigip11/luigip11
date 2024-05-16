@@ -3,22 +3,16 @@
 ### 🦸🏻‍♂️ About me
 
 - 💻 I have a degree in Computer Science and Digital Communications
-- 🔭 I’m currently working at Macnil - Technology Solutions
+- 🔭 I’m currently working like a Web and Mobile Developer
 - 👨‍💻 I'm passionate about technology
 - 🌍 I’m currently learning everything
 - 📫 How to reach me: <a href="https://luigip11.github.io/My-Portfolio/"> Click here </a>
 
 ---
 
-### ⚙️ Git Hub Analytics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigip11&layout=demo&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Programming Languages:
 
 <a href="https://www.java.com/" target="_blank"> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> </a>
-
-<a href="https://www.php.net/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></a>
 
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
 
