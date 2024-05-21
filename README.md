@@ -20,7 +20,7 @@
 
 <a href="https://it.reactjs.org/" target="_blank"> <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> </a>
 
-<a href="https://sass-lang.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> </a>
+<a href="https://sass-lang.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> </a>
 <br />
 <br />
 
