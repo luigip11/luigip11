@@ -12,15 +12,13 @@
 
 ### Programming Languages:
 
-<a href="https://www.java.com/" target="_blank"> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> </a>
-
-<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=it" target="_blank"> <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/> </a>
 
-<a href="https://it.reactjs.org/" target="_blank"> <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/> </a>
+<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> </a>
 
-<a href="https://sass-lang.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" /> </a>
+<a href="https://www.java.com/" target="_blank"> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> </a>
+
+<a href="https://dart.dev/" target="_blank"> <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> </a>
 <br />
 <br />
 
